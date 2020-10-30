@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdamHesapMakinası", "BilgeAdamHesapMakinası\BilgeAdamHesapMakinası.csproj", "{858E8C20-F833-4415-A5D3-A106730A6061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdamYıldızUcgen", "BilgeAdamYıldızUcgen\BilgeAdamYıldızUcgen.csproj", "{F898B9A1-F2BA-4235-903A-100B4562698E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858E8C20-F833-4415-A5D3-A106730A6061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858E8C20-F833-4415-A5D3-A106730A6061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858E8C20-F833-4415-A5D3-A106730A6061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858E8C20-F833-4415-A5D3-A106730A6061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F898B9A1-F2BA-4235-903A-100B4562698E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F898B9A1-F2BA-4235-903A-100B4562698E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F898B9A1-F2BA-4235-903A-100B4562698E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F898B9A1-F2BA-4235-903A-100B4562698E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBAA77DF-A7D2-4412-856C-3F869F9DE0B3}
+	EndGlobalSection
+EndGlobal
